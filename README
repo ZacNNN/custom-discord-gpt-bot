@@ -1,0 +1,9 @@
+To run simply use node ./src/index.js in the terminal
+
+Make sure to create an .env file with your
+Discord token - DISCORD_TOKEN
+OpenAi token - OPENAI_TOKEN
+How you want chatgpt to act - CHARACTER
+and the prefix to talk to the bot - PREFIX
+
+Make sure to change the gpt version to the one you want. GPT-3.5-turbo is recommended as its cheap, but for some projects you'll ned GPT-4 for its more up to date information. 
