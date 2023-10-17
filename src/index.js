@@ -60,7 +60,7 @@ async function runInterval() {
   while (true) {
     await SendAnnouncement("give me a random fact about something random in 1 or 2 sentences");
 
-    await new Promise(resolve => setTimeout(resolve, .5 * 60 * 1000));
+    await new Promise(resolve => setTimeout(resolve, 24 * 60 * 60 * 60 * 1000));
   }
 }
 
