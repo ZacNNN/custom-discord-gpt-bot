@@ -8,4 +8,4 @@ and the prefix to talk to the bot - PREFIX
 
 Make sure to change the gpt version to the one you want. GPT-3.5-turbo is recommended as its cheap, but for some projects you'll ned GPT-4 for its more up to date information. 
 
-Also make sure you have node.js v16 and npm installed otherwise it wont work
+Also make sure you have node.js installed otherwise it wont work
